@@ -1,6 +1,8 @@
-[v0.0.4](https://github.com/littleflute/Algebra-I-DVD-Series2/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/Algebra-I-DVD-Series2/edit/master/README.md)
 
-[618M]
+[618M + 170M] = 788 M
+
+[1gA13](1gA13) [170M]
 
 [1gA14](1gA14)
 
